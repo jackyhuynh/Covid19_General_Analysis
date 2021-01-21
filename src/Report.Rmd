@@ -4,6 +4,7 @@ author: "Truc"
 date: "3/27/2020"
 output: html_document
 ---
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 library(tidyverse)
@@ -16,6 +17,7 @@ library(knitr)     #create knitr table
 #Set work space
 setwd("C:/Users/jacky/Documents/R_Project/Huynh_Truc_midterm")
 ```
+
 
 ```{r function, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
