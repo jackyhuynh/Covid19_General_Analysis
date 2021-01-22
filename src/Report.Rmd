@@ -126,6 +126,7 @@ tidy.dataframe <- function(clean.data)
 }
 
 ```
+
 <br>
 <h2> 1.Introduction</h2>
 <h3> 1.1 Summary:</h3>
